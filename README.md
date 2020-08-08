@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-To use this app, run the command "node server.js". To see the offline functionality in action, open developer tools and go to "Application". Once in "Application", go to "Service Workers" and click on "Offline". Log a transaction in the app, and watch it display on the page. Click on "Offline" once again to de-select it (go back online), refresh the page and the transactions will log to the app. Go to https://drive.google.com/file/d/1Ofu7svFQYwjdwg971bHwLrlPg__9rNCZ/view to see the app in action.
+To use this app, run the command "node server.js". To see the offline functionality in action, open developer tools and go to "Application". Once in "Application", go to "Service Workers" and click on "Offline". Log a transaction in the app, and watch it display on the page. Click on "Offline" once again to de-select it (go back online), refresh the page and the transactions will log to the app. Go to https://youtu.be/rizUjk9kmWs to see the app in action.
 
 ## License
 
